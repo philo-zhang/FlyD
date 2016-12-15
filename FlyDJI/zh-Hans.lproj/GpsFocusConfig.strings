@@ -1,0 +1,30 @@
+/* Class = "UILabel"; text = "Joystick coordinate system"; ObjectID = "0jp-uv-2Yo"; */
+"0jp-uv-2Yo.text" = "摇杠坐标系统";
+
+/* Class = "UILabel"; text = "Target Height: 0m"; ObjectID = "2Zv-om-rGb"; */
+"2Zv-om-rGb.text" = "Target Height: 0m";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "67l-cl-92d"; */
+"67l-cl-92d.title" = "Title";
+
+/* Class = "UISegmentedControl"; WMc-Po-an0.segmentTitles[0] = "Manual"; ObjectID = "WMc-Po-an0"; */
+"WMc-Po-an0.segmentTitles[0]" = "手动";
+
+/* Class = "UISegmentedControl"; WMc-Po-an0.segmentTitles[1] = "Auto"; ObjectID = "WMc-Po-an0"; */
+"WMc-Po-an0.segmentTitles[1]" = "自动";
+
+/* Class = "UISegmentedControl"; feH-HX-f69.segmentTitles[0] = "Ground"; ObjectID = "feH-HX-f69"; */
+"feH-HX-f69.segmentTitles[0]" = "地面";
+
+/* Class = "UISegmentedControl"; feH-HX-f69.segmentTitles[1] = "Aircraft"; ObjectID = "feH-HX-f69"; */
+"feH-HX-f69.segmentTitles[1]" = "飞机";
+
+/* Class = "UILabel"; text = "Joystick sensitivity"; ObjectID = "p97-KS-hxQ"; */
+"p97-KS-hxQ.text" = "摇杠灵敏度";
+
+/* Class = "UILabel"; text = "Aircraft Orientation"; ObjectID = "wiM-94-ktb"; */
+"wiM-94-ktb.text" = "飞机头朝向";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "wwI-Sa-Suz"; */
+"wwI-Sa-Suz.title" = "完成";
+

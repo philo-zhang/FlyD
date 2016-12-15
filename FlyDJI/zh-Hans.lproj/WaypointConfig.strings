@@ -1,0 +1,33 @@
+/* Class = "UILabel"; text = "Corner: 0"; ObjectID = "1os-Y3-Cvt"; */
+"1os-Y3-Cvt.text" = "Corner: 0";
+
+/* Class = "UIBarButtonItem"; title = "Remove"; ObjectID = "4Uc-mP-aDy"; */
+"4Uc-mP-aDy.title" = "移除";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "8vd-o1-k4F"; */
+"8vd-o1-k4F.title" = "完成";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "Roz-7L-tXB"; */
+"Roz-7L-tXB.title" = "Title";
+
+/* Class = "UILabel"; text = "Heading: 0"; ObjectID = "Xnv-7p-OX2"; */
+"Xnv-7p-OX2.text" = "Heading: 0";
+
+/* Class = "UILabel"; text = "Altitude: 0m"; ObjectID = "Yf8-QC-0XZ"; */
+"Yf8-QC-0XZ.text" = "Altitude: 0m";
+
+/* Class = "UILabel"; text = "Gimbal Pitch: 0"; ObjectID = "Z0k-aH-71X"; */
+"Z0k-aH-71X.text" = "Gimbal Pitch: 0";
+
+/* Class = "UISegmentedControl"; ZhL-Db-gGk.segmentTitles[0] = "Input"; ObjectID = "ZhL-Db-gGk"; */
+"ZhL-Db-gGk.segmentTitles[0]" = "手动输入";
+
+/* Class = "UISegmentedControl"; ZhL-Db-gGk.segmentTitles[1] = "Focus PoI"; ObjectID = "ZhL-Db-gGk"; */
+"ZhL-Db-gGk.segmentTitles[1]" = "锁定兴趣点";
+
+/* Class = "UIButton"; normalTitle = "n/a"; ObjectID = "bmI-cP-tsX"; */
+"bmI-cP-tsX.normalTitle" = "n/a";
+
+/* Class = "UILabel"; text = "Point of Interest"; ObjectID = "tBg-XE-R6C"; */
+"tBg-XE-R6C.text" = "兴趣点";
+

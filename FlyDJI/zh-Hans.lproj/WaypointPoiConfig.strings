@@ -1,0 +1,12 @@
+/* Class = "UILabel"; text = "Altitude: 0m"; ObjectID = "3hz-d0-8uL"; */
+"3hz-d0-8uL.text" = "Altitude: 0m";
+
+/* Class = "UIBarButtonItem"; title = "Remove"; ObjectID = "8tq-bz-ZC2"; */
+"8tq-bz-ZC2.title" = "移除";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "Xd2-Db-tiX"; */
+"Xd2-Db-tiX.title" = "完成";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "Xgr-2D-BD0"; */
+"Xgr-2D-BD0.title" = "Title";
+

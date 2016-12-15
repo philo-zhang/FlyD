@@ -1,0 +1,72 @@
+/* Class = "UILabel"; text = "Direction:"; ObjectID = "BNM-CH-a2Z"; */
+"BNM-CH-a2Z.text" = "方向：";
+
+/* Class = "UILabel"; text = "Gimbal:"; ObjectID = "LBz-0t-phw"; */
+"LBz-0t-phw.text" = "云台:";
+
+/* Class = "UISegmentedControl"; QTO-n6-uwa.segmentTitles[0] = "Anti-Clockwise"; ObjectID = "QTO-n6-uwa"; */
+"QTO-n6-uwa.segmentTitles[0]" = "逆时钟";
+
+/* Class = "UISegmentedControl"; QTO-n6-uwa.segmentTitles[1] = "Clockwise"; ObjectID = "QTO-n6-uwa"; */
+"QTO-n6-uwa.segmentTitles[1]" = "顺时钟";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "SYx-Mo-Hvc"; */
+"SYx-Mo-Hvc.title" = "Title";
+
+/* Class = "UILabel"; text = "Radius: 0m"; ObjectID = "Yh1-oq-Hrf"; */
+"Yh1-oq-Hrf.text" = "Radius: 0m";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "bLo-2b-bcb"; */
+"bLo-2b-bcb.title" = "完成";
+
+/* Class = "UILabel"; text = "Angular Speed: 0d/s"; ObjectID = "f0O-yc-2Uq"; */
+"f0O-yc-2Uq.text" = "Angular Speed: 0d/s";
+
+/* Class = "UILabel"; text = "Start Point:"; ObjectID = "gAr-Sm-6uJ"; */
+"gAr-Sm-6uJ.text" = "起始点:";
+
+/* Class = "UISegmentedControl"; iTT-R4-i1u.segmentTitles[0] = "North"; ObjectID = "iTT-R4-i1u"; */
+"iTT-R4-i1u.segmentTitles[0]" = "北";
+
+/* Class = "UISegmentedControl"; iTT-R4-i1u.segmentTitles[1] = "South"; ObjectID = "iTT-R4-i1u"; */
+"iTT-R4-i1u.segmentTitles[1]" = "南";
+
+/* Class = "UISegmentedControl"; iTT-R4-i1u.segmentTitles[2] = "West"; ObjectID = "iTT-R4-i1u"; */
+"iTT-R4-i1u.segmentTitles[2]" = "西";
+
+/* Class = "UISegmentedControl"; iTT-R4-i1u.segmentTitles[3] = "East"; ObjectID = "iTT-R4-i1u"; */
+"iTT-R4-i1u.segmentTitles[3]" = "东";
+
+/* Class = "UISegmentedControl"; iTT-R4-i1u.segmentTitles[4] = "Nearest"; ObjectID = "iTT-R4-i1u"; */
+"iTT-R4-i1u.segmentTitles[4]" = "最近";
+
+/* Class = "UISegmentedControl"; jMO-Y5-YZw.segmentTitles[0] = "Manual"; ObjectID = "jMO-Y5-YZw"; */
+"jMO-Y5-YZw.segmentTitles[0]" = "手动";
+
+/* Class = "UISegmentedControl"; jMO-Y5-YZw.segmentTitles[1] = "Auto"; ObjectID = "jMO-Y5-YZw"; */
+"jMO-Y5-YZw.segmentTitles[1]" = "自动";
+
+/* Class = "UILabel"; text = "Subject Height: 0m"; ObjectID = "l7b-wV-g0Q"; */
+"l7b-wV-g0Q.text" = "Subject Height: 0m";
+
+/* Class = "UILabel"; text = "Altitude: 0m"; ObjectID = "pfY-2R-IYc"; */
+"pfY-2R-IYc.text" = "Altitude: 0m";
+
+/* Class = "UILabel"; text = "Heading:"; ObjectID = "sVc-yX-BeM"; */
+"sVc-yX-BeM.text" = "头朝向:";
+
+/* Class = "UISegmentedControl"; tOk-JF-Afh.segmentTitles[0] = "Forward"; ObjectID = "tOk-JF-Afh"; */
+"tOk-JF-Afh.segmentTitles[0]" = "向前";
+
+/* Class = "UISegmentedControl"; tOk-JF-Afh.segmentTitles[1] = "Backward"; ObjectID = "tOk-JF-Afh"; */
+"tOk-JF-Afh.segmentTitles[1]" = "向后";
+
+/* Class = "UISegmentedControl"; tOk-JF-Afh.segmentTitles[2] = "Toward"; ObjectID = "tOk-JF-Afh"; */
+"tOk-JF-Afh.segmentTitles[2]" = "朝里";
+
+/* Class = "UISegmentedControl"; tOk-JF-Afh.segmentTitles[3] = "Outward"; ObjectID = "tOk-JF-Afh"; */
+"tOk-JF-Afh.segmentTitles[3]" = "朝外";
+
+/* Class = "UISegmentedControl"; tOk-JF-Afh.segmentTitles[4] = "Manual"; ObjectID = "tOk-JF-Afh"; */
+"tOk-JF-Afh.segmentTitles[4]" = "手动";
+

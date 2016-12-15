@@ -1,0 +1,144 @@
+/* Class = "UILabel"; text = "Joystick Coordinate System"; ObjectID = "00R-Cp-Eew"; */
+"00R-Cp-Eew.text" = "摇杠坐标系统";
+
+/* Class = "UILabel"; text = "Auto Mode"; ObjectID = "2RS-VY-ulb"; */
+"2RS-VY-ulb.text" = "自动模式";
+
+/* Class = "UILabel"; text = "Transmission Channel"; ObjectID = "3fZ-lh-f54"; */
+"3fZ-lh-f54.text" = "信道";
+
+/* Class = "UILabel"; text = "R"; ObjectID = "5ps-la-xxA"; */
+"5ps-la-xxA.text" = "Remo";
+
+/* Class = "UILabel"; text = "Shutter Speed"; ObjectID = "6B3-2F-IIg"; */
+"6B3-2F-IIg.text" = "快门速度";
+
+/* Class = "UILabel"; text = "Turn on Front LED"; ObjectID = "6we-eV-Pv1"; */
+"6we-eV-Pv1.text" = "打开前置灯";
+
+/* Class = "UILabel"; text = "SD"; ObjectID = "7An-R0-hrC"; */
+"7An-R0-hrC.text" = "SD";
+
+/* Class = "UIButton"; normalTitle = "Format SD Card"; ObjectID = "9NQ-YC-ez5"; */
+"9NQ-YC-ez5.normalTitle" = "格式化存储卡";
+
+/* Class = "UILabel"; text = "Hardware Decode"; ObjectID = "C6Y-go-7U1"; */
+"C6Y-go-7U1.text" = "硬件解码";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "Cew-fH-z9S"; */
+"Cew-fH-z9S.text" = "帮助";
+
+/* Class = "UILabel"; text = "Video Size"; ObjectID = "Eus-52-tHf"; */
+"Eus-52-tHf.text" = "视频分辨率";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "FCh-eb-yks"; */
+"FCh-eb-yks.text" = "版本";
+
+/* Class = "UISegmentedControl"; Ggh-VH-SJK.segmentTitles[0] = "Ground"; ObjectID = "Ggh-VH-SJK"; */
+"Ggh-VH-SJK.segmentTitles[0]" = "地面";
+
+/* Class = "UISegmentedControl"; Ggh-VH-SJK.segmentTitles[1] = "Aircraft"; ObjectID = "Ggh-VH-SJK"; */
+"Ggh-VH-SJK.segmentTitles[1]" = "飞机";
+
+/* Class = "UILabel"; text = "1.0"; ObjectID = "Gk6-9G-EpT"; */
+"Gk6-9G-EpT.text" = "1.0";
+
+/* Class = "UILabel"; text = "Fail Safe"; ObjectID = "JPV-g1-D2h"; */
+"JPV-g1-D2h.text" = "信号失联";
+
+/* Class = "UILabel"; text = "Vision Positioning System"; ObjectID = "M8n-pw-0wO"; */
+"M8n-pw-0wO.text" = "视觉定位系统";
+
+/* Class = "UILabel"; text = "m"; ObjectID = "Ns3-vy-OCG"; */
+"Ns3-vy-OCG.text" = "m";
+
+/* Class = "UILabel"; text = "Go Home Altitude"; ObjectID = "Ods-VH-o3G"; */
+"Ods-VH-o3G.text" = "返航高度";
+
+/* Class = "UILabel"; text = "Video Format"; ObjectID = "PiD-FM-hmm"; */
+"PiD-FM-hmm.text" = "视频格式";
+
+/* Class = "UILabel"; text = "ISO 0"; ObjectID = "QJD-c2-Mw9"; */
+"QJD-c2-Mw9.text" = "ISO 0";
+
+/* Class = "UILabel"; text = "EV"; ObjectID = "QaG-MC-1Rj"; */
+"QaG-MC-1Rj.text" = "EV";
+
+/* Class = "UILabel"; text = "Batt"; ObjectID = "RmR-JH-koj"; */
+"RmR-JH-koj.text" = "Batt";
+
+/* Class = "UILabel"; text = "Gridline"; ObjectID = "SFS-Xw-A8U"; */
+"SFS-Xw-A8U.text" = "网格线";
+
+/* Class = "UILabel"; text = "ISO"; ObjectID = "SLa-gY-zCM"; */
+"SLa-gY-zCM.text" = "ISO";
+
+/* Class = "UILabel"; text = "Photo Format"; ObjectID = "V1j-Hz-PuY"; */
+"V1j-Hz-PuY.text" = "相片格式";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "Yhi-Cy-nlA"; */
+"Yhi-Cy-nlA.title" = "完成";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "ZOr-kI-sIs"; */
+"ZOr-kI-sIs.title" = "设置";
+
+/* Class = "UILabel"; text = "Satt"; ObjectID = "Zp1-Qs-7qR"; */
+"Zp1-Qs-7qR.text" = "Satt";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aCF-3e-h6Z"; */
+"aCF-3e-h6Z.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "beu-4V-AOE"; */
+"beu-4V-AOE.title" = "完成";
+
+/* Class = "UILabel"; text = "Aperture"; ObjectID = "dyM-tk-c94"; */
+"dyM-tk-c94.text" = "光圈";
+
+/* Class = "UINavigationItem"; title = "Joystick Configuration"; ObjectID = "eBd-HT-AmV"; */
+"eBd-HT-AmV.title" = "摇杠配置";
+
+/* Class = "UILabel"; text = "(20-500m)"; ObjectID = "g3h-pJ-PwT"; */
+"g3h-pJ-PwT.text" = "(20-500m)";
+
+/* Class = "UILabel"; text = "Exposure"; ObjectID = "h4Z-WC-MEo"; */
+"h4Z-WC-MEo.text" = "曝光";
+
+/* Class = "UILabel"; text = "EV +0.0"; ObjectID = "hSf-jG-bkQ"; */
+"hSf-jG-bkQ.text" = "EV +0.0";
+
+/* Class = "UILabel"; text = "Joystick sensitivity"; ObjectID = "kjB-g1-CJp"; */
+"kjB-g1-CJp.text" = "摇杠灵敏度";
+
+/* Class = "UILabel"; text = "Photo Ratio"; ObjectID = "knI-gg-Tab"; */
+"knI-gg-Tab.text" = "照片比例";
+
+/* Class = "UISegmentedControl"; mzc-YY-N7S.segmentTitles[0] = "Rotate"; ObjectID = "mzc-YY-N7S"; */
+"mzc-YY-N7S.segmentTitles[0]" = "旋转";
+
+/* Class = "UISegmentedControl"; mzc-YY-N7S.segmentTitles[1] = "Fly"; ObjectID = "mzc-YY-N7S"; */
+"mzc-YY-N7S.segmentTitles[1]" = "飞行";
+
+/* Class = "UILabel"; text = "Preview Quality"; ObjectID = "ovz-pu-OZR"; */
+"ovz-pu-OZR.text" = "预览质量";
+
+/* Class = "UINavigationItem"; title = "Visual Tracking Configuration"; ObjectID = "pHa-lB-fQL"; */
+"pHa-lB-fQL.title" = "视觉跟踪配置";
+
+/* Class = "UILabel"; text = "Gimbal Mode"; ObjectID = "sM2-Pv-a0C"; */
+"sM2-Pv-a0C.text" = "云台模式";
+
+/* Class = "UILabel"; text = "F 0"; ObjectID = "vbY-vo-p79"; */
+"vbY-vo-p79.text" = "F 0";
+
+/* Class = "UILabel"; text = "Gimbal Extension (+30d)"; ObjectID = "wGy-TI-prr"; */
+"wGy-TI-prr.text" = "云台拓展（＋30d）";
+
+/* Class = "UILabel"; text = "SS"; ObjectID = "yBG-WT-21B"; */
+"yBG-WT-21B.text" = "SS";
+
+/* Class = "UILabel"; text = "Pitch Direction Mode"; ObjectID = "zkd-i9-M0V"; */
+"zkd-i9-M0V.text" = "横向模式";
+
+/* Class = "UILabel"; text = "Diagonal"; ObjectID = "zzk-i9-BIF"; */
+"zzk-i9-BIF.text" = "对角线";
+

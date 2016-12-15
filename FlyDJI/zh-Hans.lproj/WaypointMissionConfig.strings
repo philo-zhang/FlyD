@@ -1,0 +1,57 @@
+/* Class = "UILabel"; text = "Default Curve Percentage:"; ObjectID = "1Sx-LE-F1G"; */
+"1Sx-LE-F1G.text" = "默认弯曲百分比";
+
+/* Class = "UILabel"; text = "Action After Finished:"; ObjectID = "6g8-xY-pXb"; */
+"6g8-xY-pXb.text" = "任务完成后动作:";
+
+/* Class = "UISegmentedControl"; A3Y-CT-OuG.segmentTitles[0] = "None"; ObjectID = "A3Y-CT-OuG"; */
+"A3Y-CT-OuG.segmentTitles[0]" = "悬浮";
+
+/* Class = "UISegmentedControl"; A3Y-CT-OuG.segmentTitles[1] = "Home"; ObjectID = "A3Y-CT-OuG"; */
+"A3Y-CT-OuG.segmentTitles[1]" = "返航";
+
+/* Class = "UISegmentedControl"; A3Y-CT-OuG.segmentTitles[2] = "Land"; ObjectID = "A3Y-CT-OuG"; */
+"A3Y-CT-OuG.segmentTitles[2]" = "着陆";
+
+/* Class = "UISegmentedControl"; A3Y-CT-OuG.segmentTitles[3] = "Return 1st"; ObjectID = "A3Y-CT-OuG"; */
+"A3Y-CT-OuG.segmentTitles[3]" = "返回第一点";
+
+/* Class = "UISegmentedControl"; EIu-5f-wfq.segmentTitles[0] = "Straight"; ObjectID = "EIu-5f-wfq"; */
+"EIu-5f-wfq.segmentTitles[0]" = "直线";
+
+/* Class = "UISegmentedControl"; EIu-5f-wfq.segmentTitles[1] = "Curved"; ObjectID = "EIu-5f-wfq"; */
+"EIu-5f-wfq.segmentTitles[1]" = "曲线";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "HRe-aV-irR"; */
+"HRe-aV-irR.title" = "完成";
+
+/* Class = "UISegmentedControl"; XAv-6q-m7L.segmentTitles[0] = "Auto"; ObjectID = "XAv-6q-m7L"; */
+"XAv-6q-m7L.segmentTitles[0]" = "航线";
+
+/* Class = "UISegmentedControl"; XAv-6q-m7L.segmentTitles[1] = "Initial"; ObjectID = "XAv-6q-m7L"; */
+"XAv-6q-m7L.segmentTitles[1]" = "初始";
+
+/* Class = "UISegmentedControl"; XAv-6q-m7L.segmentTitles[2] = "Manual"; ObjectID = "XAv-6q-m7L"; */
+"XAv-6q-m7L.segmentTitles[2]" = "手动";
+
+/* Class = "UISegmentedControl"; XAv-6q-m7L.segmentTitles[3] = "PoI"; ObjectID = "XAv-6q-m7L"; */
+"XAv-6q-m7L.segmentTitles[3]" = "兴趣点";
+
+/* Class = "UILabel"; text = "0m/s"; ObjectID = "YHj-bf-f5z"; */
+"YHj-bf-f5z.text" = "0m/s";
+
+/* Class = "UILabel"; text = "Rotate Gimbal Pitch:"; ObjectID = "aax-Ng-wah"; */
+"aax-Ng-wah.text" = "旋转云台俯仰角:";
+
+/* Class = "UILabel"; text = "Flight Path Mode:"; ObjectID = "d1N-8R-Qgl"; */
+"d1N-8R-Qgl.text" = "航线模式:";
+
+/* Class = "UILabel"; text = "Heading:"; ObjectID = "lp2-EL-q38"; */
+"lp2-EL-q38.text" = "机头朝向:";
+
+/* Class = "UILabel"; text = "0m/s"; ObjectID = "n1U-gL-nZO"; */
+"n1U-gL-nZO.text" = "0m/s";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "oNK-cG-GwI"; */
+"oNK-cG-GwI.title" = "Title";
+

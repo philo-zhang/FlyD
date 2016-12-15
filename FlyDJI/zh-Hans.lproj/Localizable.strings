@@ -1,0 +1,283 @@
+/* No comment provided by engineer. */
+"Actions" = "动作";
+
+/* No comment provided by engineer. */
+"Aircraft is disconnected" = "飞机未连接";
+
+/* (No Commment) */
+"Alt: %dm" = "高度: %dm";
+
+/* No comment provided by engineer. */
+"Altitude: %dm" = "高度: %dm";
+
+/* No comment provided by engineer. */
+"Angular Speed: %0.1f°/s" = "旋转角速度: %0.1f°/s";
+
+/* Show Aperture */
+"Aperture: %@" = "光圈: %@";
+
+/* No comment provided by engineer. */
+"Auto" = "自动";
+
+/* No comment provided by engineer. */
+"Auto Speed: %0.1fm/s" = "默认速度: %0.1fm/s";
+
+/* No comment provided by engineer. */
+"Back" = "返回";
+
+/* No comment provided by engineer. */
+"CONNECTED" = "设备已连接";
+
+/* No comment provided by engineer. */
+"Camera Parameters" = "相机参数";
+
+/* No comment provided by engineer. */
+"Cancel" = "取消";
+
+/* No comment provided by engineer. */
+"Click Okay to watch introduction video for FlyDJI" = "点击“去看看”跳转观看FlyDJI的操作介绍视频";
+
+"Okay" = "去看看";
+
+/* No comment provided by engineer. */
+"Corner: %dm" = "角半径: %dm";
+
+/* No comment provided by engineer. */
+"DISCONNECTED" = "设备未连接";
+
+/* No comment provided by engineer. */
+"Default Curve Percentage: %d%%" = "默认弯曲百分比: %d%%";
+
+/* (No Commment) */
+"Dist: %dm" = "距离: %dm";
+
+/* No comment provided by engineer. */
+"Done" = "完成";
+
+/* Show EV */
+"EV: %@" = "EV: %@";
+
+/* No comment provided by engineer. */
+"End Record" = "结束录制";
+
+/* No comment provided by engineer. */
+"FOCUS" = "锁定模式";
+
+/* No comment provided by engineer. */
+"FPV Mode" = "FPV模式";
+
+/* No comment provided by engineer. */
+"Failed Aircraft Orientation" = "飞机朝向错误";
+
+/* No comment provided by engineer. */
+"Flight Instruction" = "飞行指示";
+
+/* No comment provided by engineer. */
+"Focus" = "锁定模式";
+
+/* No comment provided by engineer. */
+"Focus Mission Configuration" = "锁定任务设置";
+
+/* No comment provided by engineer. */
+"Free Mode" = "自由模式";
+
+/* (No Commment) */
+"GPS Focus Configuration" = "锁定任务设置";
+
+/* (No Commment) */
+"GPS Orbit Configuration" = "旋绕任务设置";
+
+/* No comment provided by engineer. */
+"Gimbal Pitch: %d°" = "云台俯仰角: %d°";
+
+/* No comment provided by engineer. */
+"Go Home" = "返航";
+
+/* No comment provided by engineer. */
+"Heading: %d°" = "飞机头朝向: %d°";
+
+/* No comment provided by engineer. */
+"Hover" = "悬浮";
+
+/* Show ISO */
+"ISO: %@" = "ISO: %@";
+
+/* No comment provided by engineer. */
+"Introduction Video" = "操作介绍视频";
+
+/* No comment provided by engineer. */
+"Joystick Sensitivity: %d%%" = "摇杠灵敏度: %d%%";
+
+/* No comment provided by engineer. */
+"Landing" = "着陆";
+
+/* No comment provided by engineer. */
+"MOTION FOCUS" = "运动跟焦";
+
+/* No comment provided by engineer. */
+"Mannual Aircraft Orientation only supports Inspire series" = "手动飞机朝向只适用于悟系列";
+
+/* No comment provided by engineer. */
+"Manual" = "手动";
+
+/* No comment provided by engineer. */
+"Max Speed: %0.1fm/s" = "最大速度: %0.1fm/s";
+
+/* No comment provided by engineer. */
+"Mission Finished Successfully" = "任务完成成功";
+
+/* No comment provided by engineer. */
+"Mission Finished Unsuccessfully" = "任务完成失败";
+
+/* No comment provided by engineer. */
+"Mission is not configured" = "任务未配置";
+
+/* No comment provided by engineer. */
+"Motion Focus" = "运动跟焦";
+
+/* No comment provided by engineer. */
+"Motion Focus only support Osmo series" = "视觉跟焦仅支持Osmo系列";
+
+/* No comment provided by engineer. */
+"None" = "无";
+
+/* No comment provided by engineer. */
+"ORBIT" = "旋绕模式";
+
+/* No comment provided by engineer. */
+"Orbit" = "旋绕模式";
+
+/* No comment provided by engineer. */
+"Orbit Mission Configuration" = "旋绕任务设置";
+
+/* (No Commment) */
+"Oribit Mission" = "旋绕任务";
+
+/* No comment provided by engineer. */
+"Photo Format" = "照片格式";
+
+/* No comment provided by engineer. */
+"Photo Ratio" = "照片尺寸";
+
+/* No comment provided by engineer. */
+"Poi %d Configuration" = "Poi %d 设置";
+
+/* No comment provided by engineer. */
+"Prepare Mission Failed" = "准备任务失败";
+
+/* No comment provided by engineer. */
+"Radius: %dm" = "半径: %dm";
+
+/* No comment provided by engineer. */
+"Reset Gimbal" = "重置云台";
+
+/* No comment provided by engineer. */
+"Rotate Aircraft" = "旋转飞机";
+
+/* No comment provided by engineer. */
+"Rotate Gimbal Pitch" = "旋转云台俯仰角";
+
+/* No comment provided by engineer. */
+"Settings" = "设置";
+
+/* No comment provided by engineer. */
+"Shoot Photo" = "拍照";
+
+/* Show Shutter Speed */
+"Shutter Speed: %@" = "快门速度: %@";
+
+/* (No Commment) */
+"SpdH: %dm/s" = "水平速度: %dm/s";
+
+/* (No Commment) */
+"SpdV: %dm/s" = "垂直速度: %dm/s";
+
+/* (No Commment) */
+"Start Mission" = "开始任务";
+
+/* No comment provided by engineer. */
+"Start Mission Failed" = "开始任务失败";
+
+/* No comment provided by engineer. */
+"Start Mission Successed" = "开始任务成功";
+
+/* No comment provided by engineer. */
+"Start Record" = "开始录制";
+
+/* No comment provided by engineer. */
+"Start Recording Failed" = "开始录制失败";
+
+/* No comment provided by engineer. */
+"Stay" = "停留";
+
+/* No comment provided by engineer. */
+"Stay for" = "停留";
+
+/* No comment provided by engineer. */
+"Stop Mission Failed" = "停止任务失败";
+
+/* No comment provided by engineer. */
+"Stop Mission Successed" = "停止任务成功";
+
+/* No comment provided by engineer. */
+"Stop Record" = "停止录制";
+
+/* No comment provided by engineer. */
+"Stop Recording Failed" = "停止录制失败";
+
+/* No comment provided by engineer. */
+"Subject Height: %dm" = "目标高度: %dm";
+
+/* No comment provided by engineer. */
+"Switch Map/Video" = "切换地图／视频";
+
+/* No comment provided by engineer. */
+"Switch flight Mode to F when starting mission" = "将飞行模式调到F挡开始飞行";
+
+/* Show Target Height */
+"Target Height: %dm" = "目标高度: %dm";
+
+/* No comment provided by engineer. */
+"Target is not initialized" = "目标未初始化";
+
+/* No comment provided by engineer. */
+"Turn on/off Front LED" = "打开／关闭前向灯";
+
+/* No comment provided by engineer. */
+"VISUAL FOCUS" = "视觉锁定";
+
+/* No comment provided by engineer. */
+"VISUAL TRACK" = "视觉跟踪";
+
+/* No comment provided by engineer. */
+"Video Format" = "视频格式";
+
+/* No comment provided by engineer. */
+"Video Resolution" = "视频分辨率";
+
+/* (No Commment) */
+"Virtual Stick" = "虚拟摇杠";
+
+/* No comment provided by engineer. */
+"Visual Focus" = "视觉锁定";
+
+/* No comment provided by engineer. */
+"Visual Track" = "视觉跟踪";
+
+/* No comment provided by engineer. */
+"WAYPOINT" = "航线模式";
+
+/* No comment provided by engineer. */
+"Waypoint" = "航线模式";
+
+/* No comment provided by engineer. */
+"Waypoint %d Configuration" = "航点 %d 设置";
+
+/* No comment provided by engineer. */
+"Waypoint Mission Configuration" = "航点任务设置";
+
+/* No comment provided by engineer. */
+"Yaw Follow Mode" = "俯仰角跟随模式";
+
+"PREHEATING" = "预热中";
+
